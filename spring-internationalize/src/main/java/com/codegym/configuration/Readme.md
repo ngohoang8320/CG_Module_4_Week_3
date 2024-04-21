@@ -1,0 +1,1 @@
+This configs are used for Spring MVC (using Java class)!
